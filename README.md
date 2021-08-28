@@ -1,4 +1,4 @@
-# Some fullspeed frontend work
+# Some frontend work and my logical process under extreme time-pressure
 
 ## Results
 ### The results consists of:
