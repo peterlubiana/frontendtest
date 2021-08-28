@@ -1,5 +1,4 @@
-# frontendtest
-Results frontend skill-test for Geta Digital.
+# Some fullspeed frontend work
 
 ## Results
 ### The results consists of:
